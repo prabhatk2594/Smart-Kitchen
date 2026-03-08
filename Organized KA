@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smart Kitchen</title>
+<style>
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
+header{
+background:#222;
+color:white;
+padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Smart Kitchen</h1>
+<p>The Future of Cooking</p>
+</header>
+
+<section>
+<h2>Smart Appliances</h2>
+<p>Control your kitchen with AI and IoT technology.</p>
+</section>
+
+<section>
+<h2>Features</h2>
+<ul>
+<li>Voice Control</li>
+<li>Remote Cooking</li>
+<li>AI Recipe Suggestions</li>
+</ul>
+</section>
+
+</body>
+</html>
